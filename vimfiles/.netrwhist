@@ -1,6 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='E:'
-let g:netrw_dirhist_2='C:/Windows/System32'
-let g:netrw_dirhist_3='C:/Windows/System32/0409'
-let g:netrw_dirhist_4='C:/Windows/system32/0409'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='C:/Users/niwho/My Documents'
+let g:netrw_dirhist_2='C:/niwho/myVim/vim74'
+let g:netrw_dirhist_3='C:/niwho/myVim'
+let g:netrw_dirhist_4='C:/niwho'
+let g:netrw_dirhist_5='C:'
+let g:netrw_dirhist_6='C:/Users'
+let g:netrw_dirhist_7='C:/Users/niwho'
+let g:netrw_dirhist_8='C:/Users/niwho/My Documents'
