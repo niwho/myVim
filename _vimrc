@@ -39,7 +39,7 @@ set tabstop=4        "设定tab宽度为4个字符
 set shiftwidth=4     "设定自动缩进为4个字符
 set expandtab        "用space替代tab的输入
 
-let g:calendar_diary = "C:/Users/niwho/Documents/nwnotes"  " 设置日记的存储路径
+let g:calendar_diary = "D:/Document/notes/diary"  " 设置日记的存储路径
 let g:calendar_monday = 1           " 以星期一为开始
 let g:calendar_focus_today = 1      " 光标在当天的日期上
 let g:calendar_mark = 'left-fit' "可以让*和数字可靠近
